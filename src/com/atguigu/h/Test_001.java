@@ -7,6 +7,15 @@ public class Test_001 {
 		System.out.println("132456");
 		System.out.println("hehe");
 		System.out.println("hehe");
+		System.out.println("132456");
+		System.out.println("hehe");
+		System.out.println("hehe");
+		System.out.println("132456");
+		System.out.println("hehe");
+		System.out.println("hehe");
+		System.out.println("132456");
+		System.out.println("hehe");
+		System.out.println("hehe");
 	}
 
 }

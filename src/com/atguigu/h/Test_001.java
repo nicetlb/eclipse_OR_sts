@@ -6,16 +6,7 @@ public class Test_001 {
 		// TODO Auto-generated method stub
 		System.out.println("132456");
 		System.out.println("hehe");
-		System.out.println("hehe");
-		System.out.println("132456");
-		System.out.println("hehe");
-		System.out.println("hehe");
-		System.out.println("132456");
-		System.out.println("hehe");
-		System.out.println("hehe");
-		System.out.println("132456");
-		System.out.println("hehe");
-		System.out.println("hehe");
+		System.out.println("213wea");
 	}
 
 }

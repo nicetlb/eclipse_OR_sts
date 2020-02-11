@@ -19,6 +19,7 @@ public class Test_001 {
 		System.out.println("213weafaile");
 		System.out.println("213weafaile");
 		System.out.println("sts单线提交");
+		System.out.println("sts单线提交3");
 	}
 
 }
